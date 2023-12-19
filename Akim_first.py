@@ -10,7 +10,8 @@ import math
 #print("Nüüd kokku on",kokku)
 
 #print("Hello Мир!".center(75,"-")) #текст по центру то, что в "" знаки которые будут заполнять пустоту либо пробел
-#nimi=input("Mis on sinu nimi? ").capitalize() #capitalize формат для большой буквы сначала по умолчанию akim->Akim
+#nimi=input("Mis on 
+#sinu nimi? ").capitalize() #capitalize формат для большой буквы сначала по умолчанию akim->Akim
 #print("Tere "+nimi+"!")
 #print("Tere",nimi+"!")
 #print("Tere {0}!".format(nimi))
@@ -41,7 +42,7 @@ import math
 #d=round(u/pi,2) #round округление, первый символ значение чего, второй символ сколько цифр после запятой будет видно
 #print("Läbimõõt =",d)
 
-N = float(input("Sisesta ristküliku laius (N meetrites): "))
-M = float(input("Sisesta ristküliku pikkus (M meetrites): "))
-diagonaal = d**2=N**2 + M**2
-print(f"Ristkülikukujulise maatüki diagonaal on {diagonaal:.2f} meetrit.")
+#N = float(input("Sisesta ristküliku laius (N meetrites): "))
+#M = float(input("Sisesta ristküliku pikkus (M meetrites): "))
+#diagonaal = d**2=N**2 + M**2
+#print(f"Ristkülikukujulise maatüki diagonaal on {diagonaal:.2f} meetrit.")

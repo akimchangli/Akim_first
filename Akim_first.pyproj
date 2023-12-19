@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d1e4638f-fc22-45d8-bf64-2e9e7df804b0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Akim_first.py</StartupFile>
+    <StartupFile>praktilinetoo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Akim_first.py" />
+    <Compile Include="korduslaused.py" />
+    <Compile Include="praktilinetoo.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
